@@ -14,7 +14,7 @@ console.log(val.all);
 console.log(val.all.length);
 
 //İskelette bulunan bir elemani indis ile secmeye yarar.
-console.log(val.all[6]);
+console.log(val.all[8]);
 
 //Head etiketini dogrudan secmeye yarar.
 console.log(val.head);
@@ -35,4 +35,5 @@ console.log(val.URL);
 console.log(val.forms);
 
 //Sayfada bulunan form etiketlerinden ilkinin id'sini verir.
-console.log(val.forms[0]).id;
+console.log(val.forms[0].id);
+
